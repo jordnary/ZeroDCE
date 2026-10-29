@@ -1,0 +1,8 @@
+{
+  "filename": "Epoch99.pth",
+  "upstream_revision": "e0f4adc54d0f23348c4a9b84acc08fe8778d5bfd",
+  "source": "https://raw.githubusercontent.com/Li-Chongyi/Zero-DCE/e0f4adc54d0f23348c4a9b84acc08fe8778d5bfd/Zero-DCE_code/snapshots/Epoch99.pth",
+  "sha256": "a4395acb874f320375d9704997cef874eaaaaa26a1777ceb29a92b70f74c3612",
+  "bytes": 320017,
+  "license": "CC BY-NC 4.0; academic research only (upstream terms)"
+}

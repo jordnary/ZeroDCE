@@ -1,0 +1,53 @@
+# Local coursework, personal data, and generated experiment outputs
+/assignment/
+/reports/
+/data/
+/results/
+/private/
+/scratch/
+/dist/
+/build/
+
+# Local environments, editor state, and caches
+/.cache/
+/.venv/
+/venv/
+/env/
+/.conda/
+/.idea/
+/.vscode/
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+*.egg-info/
+
+# Credentials, local databases, logs, and delivery archives
+.env
+.env.*
+*.log
+*.sqlite*
+*.db
+*.key
+*.pem
+*.p12
+*.pfx
+*.crt
+*.cer
+*.zip
+*.7z
+*.tar
+*.gz
+*.bundle
+
+# Keep only the verified upstream checkpoint in version control
+*.pt
+*.pth
+*.ckpt
+!/weights/Epoch99.pth
+
